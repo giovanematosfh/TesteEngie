@@ -1,0 +1,15 @@
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\bin\Debug\net5.0\EstudoFullStack.Domain.deps.json
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\bin\Debug\net5.0\EstudoFullStack.Domain.dll
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\bin\Debug\net5.0\ref\EstudoFullStack.Domain.dll
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\bin\Debug\net5.0\EstudoFullStack.Domain.pdb
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.csproj.AssemblyReference.cache
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.AssemblyInfoInputs.cache
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.AssemblyInfo.cs
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.dll
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\ref\EstudoFullStack.Domain.dll
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.pdb
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\bin\Debug\net5.0\EstudoFullStack.Domain.runtimeconfig.json
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\bin\Debug\net5.0\EstudoFullStack.Domain.runtimeconfig.dev.json
+C:\ProjetosAplicacao\Curso2022\EstudoFullStack2022\EstudoFullStack.Domain\obj\Debug\net5.0\EstudoFullStack.Domain.genruntimeconfig.cache
